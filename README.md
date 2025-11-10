@@ -1,5 +1,5 @@
 
-# ERP Data Automation Dashboard - Project Structure
+# ERP Data Automation Dashboard - Overview and Project Structure
     Built automated MIS and production dashboard system connecting directly to ERP SQL backend, replacing manual Excel-based reporting
     Integrated Power BI with ERP database for live dashboards tracking purchase, production, packing, and shipment metrics in real-time
     Automated data extraction and cleanup using Python (pyodbc, pandas) with scheduled report refreshes and CSV generation
