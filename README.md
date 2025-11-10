@@ -5,7 +5,17 @@
     Automated data extraction and cleanup using Python (pyodbc, pandas) with scheduled report refreshes and CSV generation
     Reduced manual data handling errors and saved 2+ hours daily for management team
 ## 📁 Complete Directory Structure
-
+    An automated ERP data extraction and visualization system built with Python, Flask, and Power BI integration capabilities. This system eliminates manual data handling, provides real-time dashboards, and generates    automated reports for purchase, production, packing, and shipment departments.
+    ✨ Features
+    
+    Automated Data Extraction: Connects to ERP backend database and extracts data automatically
+    Real-time Dashboard: Web-based dashboard showing key metrics and KPIs
+    Multi-threaded Processing: Uses threading for efficient data processing
+    Scheduled Reports: Automatic daily and hourly report generation
+    Excel & CSV Exports: Generate formatted Excel reports and CSV files
+    Department-wise Views: Separate views for Purchase, Production, Packing, and Shipment
+    Comprehensive Logging: Full logging system for monitoring and debugging
+    REST API: RESTful API endpoints for data access and integration
 ```
 erp-automation/
 │
