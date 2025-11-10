@@ -468,4 +468,3 @@ tail -f logs/erp_automation.log
 
 ---
 
-For more information, see README.md
