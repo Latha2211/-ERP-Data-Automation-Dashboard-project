@@ -1,3 +1,4 @@
+<img width="932" height="734" alt="image" src="https://github.com/user-attachments/assets/b0ce3bb0-41fd-4c45-add3-834608e3caa6" />
 
 # ERP Data Automation Dashboard - Overview and Project Structure
     Built automated MIS and production dashboard system connecting directly to ERP SQL backend, replacing manual Excel-based reporting
